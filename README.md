@@ -1,2 +1,3 @@
-# e3c
-my jupyter notebook
+# E3C Function
+
+My current working jupyter notebook
